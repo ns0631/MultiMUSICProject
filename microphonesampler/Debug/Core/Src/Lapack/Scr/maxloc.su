@@ -1,0 +1,2 @@
+../Core/Src/Lapack/Scr/maxloc.c:16:9:smaxloc_	32	static
+../Core/Src/Lapack/Scr/maxloc.c:45:9:dmaxloc_	40	static

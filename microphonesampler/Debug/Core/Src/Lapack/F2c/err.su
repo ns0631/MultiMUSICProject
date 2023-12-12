@@ -1,0 +1,6 @@
+../Core/Src/Lapack/F2c/err.c:99:1:f__canseek	104	static
+../Core/Src/Lapack/F2c/err.c:154:1:f__fatal	32	static
+../Core/Src/Lapack/F2c/err.c:181:1:f_init	16	static
+../Core/Src/Lapack/F2c/err.c:206:1:f__nowreading	32	static
+../Core/Src/Lapack/F2c/err.c:239:1:f__nowwriting	24	static
+../Core/Src/Lapack/F2c/err.c:282:1:err__fl	24	static

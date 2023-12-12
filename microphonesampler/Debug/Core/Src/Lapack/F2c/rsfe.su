@@ -1,0 +1,5 @@
+../Core/Src/Lapack/F2c/rsfe.c:10:1:xrd_SL	16	static
+../Core/Src/Lapack/F2c/rsfe.c:23:1:x_getc	16	static
+../Core/Src/Lapack/F2c/rsfe.c:44:1:x_endp	8	static
+../Core/Src/Lapack/F2c/rsfe.c:51:1:x_rev	8	static
+../Core/Src/Lapack/F2c/rsfe.c:59:9:s_rsfe	32	static

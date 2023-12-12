@@ -1,0 +1,3 @@
+../Core/Src/Lapack/F2c/endfile.c:36:9:f_end	40	static
+../Core/Src/Lapack/F2c/endfile.c:60:1:copy	1056	static
+../Core/Src/Lapack/F2c/endfile.c:80:1:t_runc	40	static

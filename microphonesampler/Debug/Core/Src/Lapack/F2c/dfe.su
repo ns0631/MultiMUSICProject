@@ -1,0 +1,10 @@
+../Core/Src/Lapack/F2c/dfe.c:9:1:y_rsk	8	static
+../Core/Src/Lapack/F2c/dfe.c:20:1:y_getc	24	static
+../Core/Src/Lapack/F2c/dfe.c:42:1:y_rev	8	static
+../Core/Src/Lapack/F2c/dfe.c:56:1:y_err	8	static
+../Core/Src/Lapack/F2c/dfe.c:62:1:y_newrec	8	static
+../Core/Src/Lapack/F2c/dfe.c:73:1:c_dfe	16	static
+../Core/Src/Lapack/F2c/dfe.c:98:9:s_rdfe	32	static
+../Core/Src/Lapack/F2c/dfe.c:120:9:s_wdfe	32	static
+../Core/Src/Lapack/F2c/dfe.c:140:9:e_rdfe	8	static
+../Core/Src/Lapack/F2c/dfe.c:145:9:e_wdfe	8	static

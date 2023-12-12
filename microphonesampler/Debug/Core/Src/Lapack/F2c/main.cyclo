@@ -1,0 +1,7 @@
+../Core/Src/Lapack/F2c/main.c:56:13:sigfdie	1
+../Core/Src/Lapack/F2c/main.c:63:13:sigidie	1
+../Core/Src/Lapack/F2c/main.c:70:13:sigqdie	1
+../Core/Src/Lapack/F2c/main.c:78:13:sigindie	1
+../Core/Src/Lapack/F2c/main.c:84:13:sigtdie	1
+../Core/Src/Lapack/F2c/main.c:91:13:sigtrdie	1
+../Core/Src/Lapack/F2c/main.c:110:1:main	2

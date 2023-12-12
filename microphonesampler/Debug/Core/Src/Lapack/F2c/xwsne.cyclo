@@ -1,0 +1,2 @@
+../Core/Src/Lapack/F2c/xwsne.c:9:1:nl_donewrec	1
+../Core/Src/Lapack/F2c/xwsne.c:24:1:x_wsne	9

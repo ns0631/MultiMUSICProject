@@ -1,0 +1,5 @@
+../Core/Src/Lapack/F2c/due.c:11:1:c_due	16	static
+../Core/Src/Lapack/F2c/due.c:35:9:s_rdue	32	static
+../Core/Src/Lapack/F2c/due.c:48:9:s_wdue	32	static
+../Core/Src/Lapack/F2c/due.c:58:9:e_rdue	8	static
+../Core/Src/Lapack/F2c/due.c:67:9:e_wdue	8	static

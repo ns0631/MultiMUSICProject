@@ -1,0 +1,6 @@
+../Core/Src/Lapack/Install/dlamch.c:20:12:dlamch_	80	static
+../Core/Src/Lapack/Install/dlamch.c:167:22:dlamc1_	144	static
+../Core/Src/Lapack/Install/dlamch.c:374:22:dlamc2_	280	static
+../Core/Src/Lapack/Install/dlamch.c:691:12:dlamc3_	24	static
+../Core/Src/Lapack/Install/dlamch.c:733:22:dlamc4_	128	static
+../Core/Src/Lapack/Install/dlamch.c:830:22:dlamc5_	104	static

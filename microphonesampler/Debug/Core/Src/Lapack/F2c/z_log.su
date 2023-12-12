@@ -1,0 +1,2 @@
+../Core/Src/Lapack/F2c/z_log.c:43:1:diff1	16	static
+../Core/Src/Lapack/F2c/z_log.c:53:6:z_log	120	static

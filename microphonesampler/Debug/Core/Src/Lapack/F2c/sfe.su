@@ -1,0 +1,3 @@
+../Core/Src/Lapack/F2c/sfe.c:14:9:e_rsfe	16	static
+../Core/Src/Lapack/F2c/sfe.c:25:1:c_sfe	24	static
+../Core/Src/Lapack/F2c/sfe.c:35:9:e_wsfe	16	static

@@ -1,0 +1,2 @@
+../Core/Src/Lapack/F2c/qbitbits.c:18:1:qbit_bits	72	static
+../Core/Src/Lapack/F2c/qbitbits.c:36:1:qbit_cshift	216	static

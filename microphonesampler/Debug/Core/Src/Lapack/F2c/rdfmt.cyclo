@@ -1,0 +1,10 @@
+../Core/Src/Lapack/F2c/rdfmt.c:26:1:rd_Z	21
+../Core/Src/Lapack/F2c/rdfmt.c:105:1:rd_I	27
+../Core/Src/Lapack/F2c/rdfmt.c:176:1:rd_L	28
+../Core/Src/Lapack/F2c/rdfmt.c:233:1:rd_F	70
+../Core/Src/Lapack/F2c/rdfmt.c:400:1:rd_A	4
+../Core/Src/Lapack/F2c/rdfmt.c:413:1:rd_AW	11
+../Core/Src/Lapack/F2c/rdfmt.c:436:1:rd_H	4
+../Core/Src/Lapack/F2c/rdfmt.c:448:1:rd_POS	6
+../Core/Src/Lapack/F2c/rdfmt.c:464:1:rd_ed	19
+../Core/Src/Lapack/F2c/rdfmt.c:529:1:rd_ned	8

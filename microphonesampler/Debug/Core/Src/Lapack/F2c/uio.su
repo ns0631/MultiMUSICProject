@@ -1,0 +1,3 @@
+../Core/Src/Lapack/F2c/uio.c:12:1:do_us	24	static
+../Core/Src/Lapack/F2c/uio.c:34:9:do_ud	24	static
+../Core/Src/Lapack/F2c/uio.c:66:9:do_uio	24	static

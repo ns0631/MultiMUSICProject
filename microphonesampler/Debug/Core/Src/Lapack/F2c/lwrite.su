@@ -1,0 +1,9 @@
+../Core/Src/Lapack/F2c/lwrite.c:13:1:donewrec	8	static
+../Core/Src/Lapack/F2c/lwrite.c:23:1:lwrt_I	32	static
+../Core/Src/Lapack/F2c/lwrite.c:42:1:lwrt_L	16	static
+../Core/Src/Lapack/F2c/lwrite.c:53:1:lwrt_A	32	static
+../Core/Src/Lapack/F2c/lwrite.c:98:1:l_g	40	static
+../Core/Src/Lapack/F2c/lwrite.c:180:1:l_put	24	static
+../Core/Src/Lapack/F2c/lwrite.c:198:1:lwrt_F	40	static
+../Core/Src/Lapack/F2c/lwrite.c:211:1:lwrt_C	88	static
+../Core/Src/Lapack/F2c/lwrite.c:246:1:l_write	56	static

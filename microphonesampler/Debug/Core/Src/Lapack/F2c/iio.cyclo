@@ -1,0 +1,11 @@
+../Core/Src/Lapack/F2c/iio.c:13:1:z_getc	4
+../Core/Src/Lapack/F2c/iio.c:26:1:z_putc	3
+../Core/Src/Lapack/F2c/iio.c:34:1:z_rnew	1
+../Core/Src/Lapack/F2c/iio.c:44:1:z_endp	1
+../Core/Src/Lapack/F2c/iio.c:54:1:c_si	3
+../Core/Src/Lapack/F2c/iio.c:77:1:iw_rev	2
+../Core/Src/Lapack/F2c/iio.c:88:9:s_rsfi	2
+../Core/Src/Lapack/F2c/iio.c:103:1:z_wnew	3
+../Core/Src/Lapack/F2c/iio.c:120:9:s_wsfi	2
+../Core/Src/Lapack/F2c/iio.c:133:9:e_rsfi	1
+../Core/Src/Lapack/F2c/iio.c:138:9:e_wsfi	12

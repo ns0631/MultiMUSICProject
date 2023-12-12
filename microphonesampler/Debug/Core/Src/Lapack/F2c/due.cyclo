@@ -1,0 +1,5 @@
+../Core/Src/Lapack/F2c/due.c:11:1:c_due	16
+../Core/Src/Lapack/F2c/due.c:35:9:s_rdue	5
+../Core/Src/Lapack/F2c/due.c:48:9:s_wdue	5
+../Core/Src/Lapack/F2c/due.c:58:9:e_rdue	5
+../Core/Src/Lapack/F2c/due.c:67:9:e_wdue	1

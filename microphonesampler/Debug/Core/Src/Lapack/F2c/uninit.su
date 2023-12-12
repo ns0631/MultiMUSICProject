@@ -1,0 +1,2 @@
+../Core/Src/Lapack/F2c/uninit.c:64:1:_uninit_f2c	32	static
+../Core/Src/Lapack/F2c/uninit.c:376:1:ieee0	4	static

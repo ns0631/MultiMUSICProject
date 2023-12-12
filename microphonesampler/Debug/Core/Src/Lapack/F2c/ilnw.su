@@ -1,0 +1,5 @@
+../Core/Src/Lapack/F2c/ilnw.c:18:1:z_wSL	8	static
+../Core/Src/Lapack/F2c/ilnw.c:29:1:c_liw	16	static
+../Core/Src/Lapack/F2c/ilnw.c:52:1:s_wsni	40	static
+../Core/Src/Lapack/F2c/ilnw.c:68:1:s_wsli	16	static
+../Core/Src/Lapack/F2c/ilnw.c:76:9:e_wsli	8	static

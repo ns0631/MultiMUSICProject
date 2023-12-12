@@ -1,0 +1,2 @@
+../Core/Src/Lapack/F2c/wsle.c:13:9:s_wsle	32	static
+../Core/Src/Lapack/F2c/wsle.c:30:9:e_wsle	16	static

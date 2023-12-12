@@ -1,0 +1,2 @@
+../Core/Src/Lapack/F2c/z_log.c:43:1:diff1	1
+../Core/Src/Lapack/F2c/z_log.c:53:6:z_log	9
